@@ -3,8 +3,8 @@ layout: project_template
 title: Electric Longboard Optimizations
 description: The purpose of this project is to understand the inner workings of an electric longboard and its component parts to the extent that we can create our own, improved electric longboard.
 date: 2000-02-17 09:00:00
-hero_image: /web/img/Electric-Longboard-Optimizations/open_house.png
-image: /web/img/Electric-Longboard-Optimizations/open_house.png
+hero_image: /web/img/Electric-Longboard-Optimizations/Hero.png
+image: /web/img/Electric-Longboard-Optimizations/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
