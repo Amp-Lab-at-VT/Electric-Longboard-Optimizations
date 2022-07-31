@@ -9,10 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Travis Hancock
-Hunter Boyer
-William Ogle
-Theo Long
+author: Travis Hancock, Hunter Boyer, William Ogle, Theo Long
 show_sidebar: false
 ---
 
