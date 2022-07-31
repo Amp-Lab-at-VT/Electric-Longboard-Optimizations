@@ -25,7 +25,7 @@ William Ogle
 Theo Long
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Electric-Longboard-Optimizations"" >Electric-Longboard-Optimizations</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Electric-Longboard-Optimizations" >Electric-Longboard-Optimizations</a>
 
 ## Photo
 
